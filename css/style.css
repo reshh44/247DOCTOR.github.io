@@ -365,7 +365,7 @@ ul.service_grid li.desc{
 /*--features--*/
 .features{
 	padding:5em 0;
-	background: url(../images/fea.jpg) no-repeat center top;
+	/*background: url(../images/fea.jpg) no-repeat center top; */
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -383,10 +383,11 @@ ul.service_grid li.desc{
 	margin-bottom:2em;
 }
 i.phone{
-	width: 507px;
-	height: 256px;
+	text-align:center;
+	width: 650px;
+	height: 420px;
 	display: inline-block;
-	background: url(../images/vertical_iphone.png) no-repeat;
+	background: url(../images/we_are_on.png) no-repeat;
 }
 span.feature{
 	font-weight:300;
